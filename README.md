@@ -1,15 +1,15 @@
-### Heeey up!
+### Heeey up 👋
 <p align="center">
   <img src="https://media1.tenor.com/images/c8660cb3e0e72a3b70731a2f6116ffc1/tenor.gif?itemid=8467078" alt="GIF">
 </p>
 
 
-### About me
+### About me 💬
 I'm a software developer at [G10 Sistemas](http://www.g10sistemas.com) and I study analysis and system development at [IFBA](https://portal.ifba.edu.br/santoantonio). I love to code in any language or situation.
 
 I was worked in projects with brazilian fiscal legacy like [CTE](https://www.cte.fazenda.gov.br/portal/), [MDFE](https://dfe-portal.svrs.rs.gov.br/Mdfe) and [SPED Contribuições](http://sped.rfb.gov.br/). I also have other softwares that I worked by like [G10 Delivery](https://play.google.com/store/apps/details?id=br.com.g10sistemas.g10delivery) and myself projects [Rabbited](https://github.com/BerkSpar/Rabbited).
 
-### Stats
+### Stats :bar_chart:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=berkspar&show_icons=true&count_private=true">
 </p>
