@@ -7,7 +7,7 @@
 ### About me 💬
 I'm a software developer at [G10 Sistemas](http://www.g10sistemas.com) and I study analysis and system development at [IFBA](https://portal.ifba.edu.br/santoantonio). I love to code in any language or situation.
 
-I was worked in projects with brazilian fiscal systems like [CTE](https://www.cte.fazenda.gov.br/portal/), [MDFE](https://dfe-portal.svrs.rs.gov.br/Mdfe) and [SPED Contribuições](http://sped.rfb.gov.br/). I also have other softwares that I worked by like [G10 Delivery](https://play.google.com/store/apps/details?id=br.com.g10sistemas.g10delivery) and my own projects like [Rabbited](https://github.com/BerkSpar/Rabbited).
+I was worked in projects with brazilian fiscal systems like [CTE](https://www.cte.fazenda.gov.br/portal/), [MDFE](https://dfe-portal.svrs.rs.gov.br/Mdfe) and [SPED Contribuições](http://sped.rfb.gov.br/). I also have other softwares that I worked by like [G10 Delivery](https://play.google.com/store/apps/details?id=br.com.g10sistemas.g10delivery) and my own projects like [Bunnie](https://github.com/BerkSpar/Bunnie).
 
 ### Stats :bar_chart:
 <p align="center">
