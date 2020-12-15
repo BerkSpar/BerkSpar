@@ -1,9 +1,3 @@
-### Heeey up 👋
-<p align="center">
-  <img src="https://media1.tenor.com/images/c8660cb3e0e72a3b70731a2f6116ffc1/tenor.gif?itemid=8467078" alt="GIF">
-</p>
-
-
 ### About me 💬
 I'm a software developer at [G10 Sistemas](http://www.g10sistemas.com) and I study analysis and system development at [IFBA](https://portal.ifba.edu.br/santoantonio). I love to code in any language or situation.
 
