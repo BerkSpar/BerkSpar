@@ -13,6 +13,7 @@ I was worked in projects with brazilian fiscal systems like [CTE](https://www.ct
   <img src="https://img.shields.io/badge/%20-delphi-ED1F35.svg?style=for-the-badge&logo=embarcadero" alt="Delphi">
   <img src="https://img.shields.io/badge/%20-dart-0175C2.svg?style=for-the-badge&logo=dart" alt="Dart">
   <img src="https://img.shields.io/badge/%20-flutter-02569B.svg?style=for-the-badge&logo=flutter" alt="Flutter">
+  <img src="https://img.shields.io/badge/%20-nodejs-76D04B.svg?style=for-the-badge&logo=node.js" alt="Node">
   <img src="https://img.shields.io/badge/%20-github-181717.svg?style=for-the-badge&logo=github" alt="Github">
   <img src="https://img.shields.io/badge/%20-git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/%20-graphql-E10098.svg?style=for-the-badge&logo=graphql" alt="GraphQL">
