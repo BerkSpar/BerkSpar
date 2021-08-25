@@ -21,3 +21,5 @@ I was worked in projects with brazilian fiscal systems like [CTE](https://www.ct
   <img src="https://img.shields.io/badge/%20-python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/%20-firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
 </p>
+
+![Snake animation](https://github.com/BerkSpar/BerkSpar/blob/output/github-contribution-grid-snake.svg)
