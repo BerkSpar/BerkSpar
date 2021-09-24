@@ -1,5 +1,5 @@
 ### About me 💬
-I'm a software developer at LF Tecnologia and I study computer science at [PUCPR](https://www.pucpr.br/). I love to code.
+I'm a tech lead at LF Tecnologia and I study computer science at [PUCPR](https://www.pucpr.br/). I love to code.
 
 I was worked in projects with brazilian fiscal systems like [CTE](https://www.cte.fazenda.gov.br/portal/), [MDFE](https://dfe-portal.svrs.rs.gov.br/Mdfe) and [SPED Contribuições](http://sped.rfb.gov.br/). I also have other softwares that I worked by like [G10 Delivery](https://play.google.com/store/apps/details?id=br.com.g10sistemas.g10delivery), [Rastrear LF](https://play.google.com/store/apps/details?id=br.com.rastrear.lf), [O Gole](https://play.google.com/store/apps/details?id=br.com.lf.o_gole) and my own projects like [Bunnie](https://github.com/BerkSpar/Bunnie) and colabs with other devs like [Github_Finder](https://github.com/BerkSpar/github-finder).
 
