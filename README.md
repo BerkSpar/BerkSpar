@@ -5,8 +5,8 @@ I was worked in projects with brazilian fiscal systems like [CTE](https://www.ct
 
 ### Stats :bar_chart:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkspar&show_icons=true&count_private=true" height="200" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkspar&layout=compact" height="200" width="338">
+  <img src="https://github-readme-stats.vercel.app/api?username=berkspar&theme=dark&show_icons=true&count_private=true" height="200" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkspar&layout=compact&theme=dark" height="200" width="338">
 </p>
 
 ![Snake animation](https://github.com/BerkSpar/BerkSpar/blob/output/github-contribution-grid-snake.svg)
