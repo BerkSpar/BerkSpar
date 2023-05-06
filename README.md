@@ -1,12 +1,14 @@
-### About me 💬
-I'm a frontend developer at [UEX](https://uex.io/) and I study computer science at [PUCPR](https://www.pucpr.br/). I love to code.
 
-I was worked in projects with brazilian fiscal systems like [CTE](https://www.cte.fazenda.gov.br/portal/), [MDFE](https://dfe-portal.svrs.rs.gov.br/Mdfe) and [SPED Contribuições](http://sped.rfb.gov.br/). I also have other softwares that I worked by like [G10 Delivery](https://play.google.com/store/apps/details?id=br.com.g10sistemas.g10delivery), [Rastrear LF](https://play.google.com/store/apps/details?id=br.com.rastrear.lf), [O Gole](https://play.google.com/store/apps/details?id=br.com.lf.o_gole) and my own projects like [Bunnie](https://github.com/BerkSpar/Bunnie) and colabs with other devs like [Github_Finder](https://github.com/BerkSpar/github-finder).
+# Hi there 👋
+I'm thrilled to see you've stumbled upon my GitHub profile! My name is Felipe Passos, and I'm currently a student at the [Apple Developer Academy](https://www.apple.com/br/newsroom/2021/05/coders-designers-and-entrepreneurs-thrive-thanks-to-apple-developer-academy/). I have a passion for mobile development and love to code!
 
-### Stats :bar_chart:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkspar&theme=dark&show_icons=true&count_private=true" height="200" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkspar&layout=compact&theme=dark" height="200" width="338">
-</p>
+# 🔭 What I do
+Currently, I work as a frontend developer at UEX, where I use my skills to build modern and responsive interfaces for web applications using [Flutter](https://flutter.dev). Besides that, I'm also studying computer science at [PUCPR](https://www.pucpr.br) to expand my knowledge and skills.
 
-![Snake animation](https://github.com/BerkSpar/BerkSpar/blob/output/github-contribution-grid-snake.svg)
+# 🌱 My Journey
+I started my journey in development with Delphi, working on an ERP system. Since then, I've gained experience in a variety of software applications and projects. Currently, I work as a frontend developer at [UEX](https://uex.io), where I'm working on [VR Admissão](https://www.vr.com.br/institucional-vr/vradmissao-rh.htm), an HCM project for the Human Resources sector. Additionally, at [LF Tecnologia](https://www.lftecnologia.com.br), I developed an app called [Remembeer](https://play.google.com/store/apps/details?id=br.com.lftecnologia.remembeer), which is focused on the beer community.
+
+# 📫 Get in touch
+I'm always excited to connect with other developers, exchange ideas, and work on exciting projects. If you're interested in collaborating or have any questions, please feel free to reach out to me via [email](mailto:berkspar@gmail.com) or [LinkedIn](https://www.linkedin.com/in/berkspar/).
+
+Thank you for taking the time to read through my profile, and I hope to hear from you soon!
