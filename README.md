@@ -1,14 +1,8 @@
+| | Name | Description | Play Store | App Store
+| --- | --- | --- | :---: | :---: |
+| <img src="https://github.com/BerkSpar/telly/raw/main/logo.png" height=60> | **Telly** | Learn english by talking with Telly | | <a href="https://www.google.com"><img src="appstore.jpg" height=60></a> |
+| <img src="https://github.com/BerkSpar/squaaare/raw/main/logo.png" height=60> | **Squaaare** | Fun game | | <a href="https://www.google.com"><img src="appstore.jpg" height=60></a> |
+| <img src="https://github.com/BerkSpar/boomb/raw/main/logo-boomb.png" height=60> | **Boomb** | Fun game | | <a href="https://www.google.com"><img src="appstore.jpg" height=60></a> |
+| <img src="https://user-images.githubusercontent.com/47111228/111788899-5f996c80-889f-11eb-886c-a03c41ab3d25.png" height=60> | **Bunnie** | Anime social network | | |
+| <img src="https://github.com/BerkSpar/hub_finder/blob/main/asset/images/logo.png?raw=true" height=60> | **Hub Finder** | Developer social network | <a href="https://www.google.com"><img src="googleplay.jpg" height=60></a> | |
 
-# Hi there 👋
-I'm thrilled to see you've stumbled upon my GitHub profile! My name is Felipe Passos, and I'm currently a student at the [Apple Developer Academy](https://www.apple.com/br/newsroom/2021/05/coders-designers-and-entrepreneurs-thrive-thanks-to-apple-developer-academy/). I have a passion for mobile development and love to code!
-
-# 🔭 What I do
-Currently, I work as a frontend developer at UEX, where I use my skills to build modern and responsive interfaces for web applications using [Flutter](https://flutter.dev). Besides that, I'm also studying computer science at [PUCPR](https://www.pucpr.br) to expand my knowledge and skills.
-
-# 🌱 My Journey
-I started my journey in development with Delphi, working on an ERP system. Since then, I've gained experience in a variety of software applications and projects. Currently, I work as a frontend developer at [UEX](https://uex.io), where I'm working on [VR Admissão](https://www.vr.com.br/institucional-vr/vradmissao-rh.htm), an HCM project for the Human Resources sector. Additionally, at [LF Tecnologia](https://www.lftecnologia.com.br), I developed an app called [Remembeer](https://play.google.com/store/apps/details?id=br.com.lftecnologia.remembeer), which is focused on the beer community.
-
-# 📫 Get in touch
-I'm always excited to connect with other developers, exchange ideas, and work on exciting projects. If you're interested in collaborating or have any questions, please feel free to reach out to me via [email](mailto:berkspar@gmail.com) or [LinkedIn](https://www.linkedin.com/in/berkspar/).
-
-Thank you for taking the time to read through my profile, and I hope to hear from you soon!
