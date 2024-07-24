@@ -1,3 +1,4 @@
+[//]: # ({"color": "cian", "avatar_frame": "https://raw.githubusercontent.com/afonsorek/avatar-frames/main/frame-avatar.gif", "cover": "https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"})
 
 # Hi there 👋
 I'm thrilled to see you've stumbled upon my GitHub profile! My name is Felipe Passos, and I'm currently a student at the [Apple Developer Academy](https://www.apple.com/br/newsroom/2021/05/coders-designers-and-entrepreneurs-thrive-thanks-to-apple-developer-academy/). I have a passion for mobile development and love to code!
